@@ -1,9 +1,7 @@
-import { data } from "autoprefixer";
 import Content from "./components/Content";
 import Header from "./components/Header";
 import fetchData from "./utility/fecth";
-import { useState } from "react";
-import { useEffect } from "react";
+import { useState, useEffect } from "react";
 import Footer from "./components/Footer";
 
 function App() {
